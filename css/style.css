@@ -42,3 +42,8 @@ img {
 
 /* INDEX.HTML STYLES
 ======================== */
+
+footer {
+	text-align: right;
+	background: #fff;
+}
