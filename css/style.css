@@ -34,5 +34,10 @@ h2 {
 	color: rgb(111,127,122);
 	font-size: 2em;
 
+img {
+	border: 1em;
+	color: rgb(111,127,122);
+}
+
 /* INDEX.HTML STYLES
 ======================== */
