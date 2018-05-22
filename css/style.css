@@ -36,7 +36,7 @@ h2 {
 
 img {
 	padding: 1em;
-	border: 1em solid #021a40;
+	border: 5px rgb(152,173,166) solid;
 	background-color: rgb(111,127,122);
 }
 
@@ -47,3 +47,5 @@ footer {
 	text-align: right;
 	background: #fff;
 }
+
+
